@@ -1,5 +1,5 @@
 
-```
+
 ensure that the repository is not currently on the branch to be deleted
 1-delete branch locally
 git branch -d branch-to-delete
@@ -21,4 +21,6 @@ how to list tags:
 git tag
 Delete a Local Tag: git tag -d tagname
 Delete a remote Tag: git push --delete remote-name tagname
-```
+
+
+![photo](./photo.jpg)
